@@ -1,0 +1,79 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #FFFFFF;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.img-filho{
+    border: 1px solid #DBDBDB;
+    width: 350px;
+    height: 411px;
+    position: absolute;
+    right: 23%;
+    margin-top: 50px;
+}
+.logo-insta{
+    width: 175px;
+    position: absolute;
+    top: 33px;
+    left: 26%;
+}
+.form-filho{
+    margin-top: 20px;
+    position: absolute;
+    top: 162px;
+    left: 55%;
+}
+
+input{
+    width: 250px;
+    height: 36px;
+    background-color: #FAFAFA;
+    border: solid 1px #DBDBDB;
+    display: block;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+input::placeholder{
+    font-size: 0.8rem;
+    
+}
+button{
+    color: white;
+    font-weight: bold;
+    background-color: #4CB5F9;
+    width: 257px;
+    height: 32px;
+    margin-top: 10px;
+    border-radius: 10px;
+    border: solid 1px ;
+}
+.resto{
+    position: relative;
+    width: 106px;
+    top: 30px;
+    
+}
+.resto-filho1{
+    position: relative;
+   left: 751px;
+   top: 302px;
+   border-color: #DBDBDB;
+
+}
+.resto-filho2{
+    position: relative;
+    left: 870px;
+    top: 275px;
+    color: #777573;
+    font-weight: bold;
+}
+.resto-filho3{
+    position: relative;
+    left: 900px;
+    top: 250px;
+    border-color: #DBDBDB;
+}
+hr{border-color: #DBDBDB;
+    border: 0.1px solid #DBDBDB;
+}
