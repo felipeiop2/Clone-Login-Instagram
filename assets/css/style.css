@@ -77,3 +77,42 @@ button{
 hr{border-color: #DBDBDB;
     border: 0.1px solid #DBDBDB;
 }
+.links-filho img{
+    width: 16px;
+    height: 16px;
+}
+.links-filho {
+    position: relative;
+    top: 305px;
+    left: 787px;
+    width: 145px;
+    height: 19px;
+    display: inline;
+}
+
+a{
+    text-decoration: none;
+    color: #385185; 
+}
+.links-filhos2{
+    position: relative;
+    top: 314px;
+    left: 811px;
+    font-size: 15px;
+}
+.cadastro-container{
+    border: 1px solid #DBDBDB;
+    width: 350px;
+    height: 63px;
+    position: relative;
+    top: 349px;
+    left: 700px;
+
+}
+.cadastro-filho{
+    text-align: center;
+    margin-top: 24px;
+}
+.cadastro-filho a {
+    color: #0097F6;
+}
