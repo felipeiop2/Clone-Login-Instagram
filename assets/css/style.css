@@ -105,8 +105,8 @@ a{
     width: 350px;
     height: 63px;
     position: relative;
-    top: 349px;
-    left: 700px;
+    top: 343Px;
+    left: 687px;
 
 }
 .cadastro-filho{
@@ -115,4 +115,16 @@ a{
 }
 .cadastro-filho a {
     color: #0097F6;
+}
+.dowload-container{
+
+}
+.dowload-filho{
+    position: relative;
+    text-align: center;
+    top: 348px;
+    left: 197px;
+}
+.dowload-filho img{
+    width: 134px;
 }
